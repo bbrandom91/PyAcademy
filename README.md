@@ -1,4 +1,4 @@
-
+Analysis of dataset containing information about a hand full of school districts and the schools within those districts. We compare charter schools to public schools.
 
 ```python
 #import pandas and read in the two CSV files

@@ -1543,7 +1543,7 @@ vertical-align: top;
 
 ## Summary
 
-Charter schools have an overall pass rate about $20$ percent larger than those of district schools.
+Charter schools have an overall pass rate about 20 percent larger than those of district schools.
 As the size of the school increases, the overall pass rate decreases.
-The top $5$ performing schools are all charter schools, while the bottom $5$ performing schools are all district schools.
+The top 5 performing schools are all charter schools, while the bottom 5 performing schools are all district schools.
 
